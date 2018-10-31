@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="Entity Parser Suite" verbose="1">
+    <test name="JSON Extractor Tests">
+        <classes>
+            <class name="com.everwhimsical.extractor.json.JsonExtractorTest"/>
+            <class name="com.everwhimsical.extractor.json.JsonOutputTest"/>
+            <class name="com.everwhimsical.extractor.json.DefaultJsonEntityFormatterTest"/>
+            <class name="com.everwhimsical.extractor.json.FieldCheckJsonEntityFormatterTest"/>
+        </classes>
+    </test>
+</suite>

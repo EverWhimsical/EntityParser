@@ -1,0 +1,26 @@
+{
+  "phoneList": [
+    {
+      "phoneType": "Bar",
+      "phoneOS": "iOS",
+      "phoneMake": "Apple",
+      "phoneSize": 4
+    },
+    {
+      "phoneType": "Bar",
+      "phoneOS": "Android",
+      "phoneMake": "Samsung",
+      "phoneSize": 5
+    },
+    {
+      "phoneType": "Bar",
+      "phoneOS": "Android",
+      "phoneMake": "HTC",
+      "phoneSize": 6,
+      "storage": {
+        "storageType": "internal",
+        "storageMemory": "16 GB"
+      }
+    }
+  ]
+}

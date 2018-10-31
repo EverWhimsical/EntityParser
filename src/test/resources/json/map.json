@@ -1,0 +1,24 @@
+{
+  "phone1" : {
+    "phoneType": "Bar",
+    "phoneOS" : "iOS",
+    "phoneMake": "Apple",
+    "phoneSize" : 4
+  },
+  "phone2" : {
+    "phoneType": "Bar",
+    "phoneOS" : "Android",
+    "phoneMake": "Samsung",
+    "phoneSize" : 5
+  },
+  "phone3" : {
+    "phoneType": "Bar",
+    "phoneOS" : "Android",
+    "phoneMake": "HTC",
+    "phoneSize" : 6,
+    "storage": {
+      "storageType": "internal",
+      "storageMemory" : "16 GB"
+    }
+  }
+}
